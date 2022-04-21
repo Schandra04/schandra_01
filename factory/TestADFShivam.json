@@ -1,0 +1,9 @@
+{
+	"name": "TestADFShivam",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e6b6e57c-203d-4f66-8083-45cb0f4a7788",
+		"tenantId": "79ddb868-ca0b-4b0d-a9fd-84b0cad12a63"
+	}
+}
